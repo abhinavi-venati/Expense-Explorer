@@ -1,5 +1,5 @@
 # Expense-Explorer
-The Expense tracker is a C++ program that allows you to track your income, expenses, and savings goals. It provides a simple and convenient way to keep a record of your financial transactions and monitor your overall financial situation.Implemented using C++ with a user-friendly command-line interface.
+The Expense Explorer is a C++ program that allows you to track your income, expenses, and savings goals. It provides a simple and convenient way to keep a record of your financial transactions and monitor your overall financial situation.Implemented using C++ with a user-friendly command-line interface.
 
 ## Features
 - Record income: Users can enter their income amount.
